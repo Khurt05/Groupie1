@@ -1,0 +1,16 @@
+.size-g1 {
+  height: 34vh;
+}
+
+.size-g2 {
+  height: 35vh;
+  max-width: 100%;
+}
+
+.size-g3 {
+  height: 25vh;
+}
+
+.full-height {
+  height: 20rem;
+}
